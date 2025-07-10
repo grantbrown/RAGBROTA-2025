@@ -7,7 +7,7 @@ This is a brief collection of 2m repeater configurations, along with a couple of
 
 Repeaters are named according to the following format, where "a" indicates the index of the repeater (in approximate order of relevance over the week), "b" indicates the day(s) a repeater may be accessible, and "RAG" indicates... RAGBRAI:
 
-<a>D<b>RAG
+``` <a>D<b>RAG```
 
 For example, 5D35RAG is the fifth entry, and is expected to be (potentially) relevant on (portions of) days 4-5, between Forest City and Cedar Falls. 
 
