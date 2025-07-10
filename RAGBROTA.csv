@@ -1,0 +1,13 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,1D1-RAG,145.310000,-,0.600000,Tone,110.9,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"W0VHQ, Sanborn IA",,,,
+1,2D13RAG,146.610000,-,0.600000,Tone,110.9,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"W0DOG, Spirit Lake IA",,,,
+2,3D23RAG,147.270000,+,0.600000,Tone,103.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"WB0URC, Forest City IA",,,,
+3,4D3RAG,146.760000,-,0.600000,Tone,103.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"W0MCW, Mason City IA",,,,
+4,5D35RAG,147.255000,+,0.600000,Tone,136.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"WB0EMJ, Ackley IA",,,,
+5,6D57RAG,146.820000,-,0.600000,Tone,136.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"W0ALO, Waterloo IA",,,,
+6,7D7RAG,147.300000,+,0.600000,Tone,131.8,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"W0II, Manchester IA",,,,
+7,8D7RAG,147.895000,-,0.600000,Tone,114.8,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"N0WLU, Beetown WI",,,,
+8,NATSMP,146.520000,,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,National Simplex Frequency,,,,
+9,NATADV,146.580000,,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,National Adventure Frequency,,,,
+10,HA-ST1,147.570000,,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Hamactive Summer Thunder 1,,,,
+11,HA-ST2,147.525000,,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Hamactive Summer Thunder 2,,,,
