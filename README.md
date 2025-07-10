@@ -9,7 +9,7 @@ Repeaters are named according to the following format, where "a" indicates the i
 
 ``` <a>D<b>RAG```
 
-For example, 5D35RAG is the fifth entry, and is expected to be (potentially) relevant on (portions of) days 4-5, between Forest City and Cedar Falls. 
+For example, 5D45RAG is the fifth entry, and is expected to be (potentially) relevant on (portions of) days 4-5, between Forest City and Cedar Falls. 
 
 The simplex frequencies currently included are:
 
